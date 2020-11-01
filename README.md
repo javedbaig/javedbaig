@@ -1,6 +1,6 @@
-<img src = "https://media3.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width=22% align="center">
-<h1 align="center">Hi 👋, I'm Javed Baig</h1>
-<h3 align="center">ML/AI Developer at DSC PGDAV.</h3>
+<img src = "https://media3.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width=22%>
+<h1>Hi 👋, I'm Javed Baig</h1>
+<h3>ML/AI Developer at DSC PGDAV.</h3>
 
 - 🌱 I’m currently learning **Machine Learning, Web Development**
 
