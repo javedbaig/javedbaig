@@ -1,4 +1,4 @@
-<img src = "https://media3.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width=100%>
+<img src = "https://media3.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width=25%>
 <h1 align="center">Hi 👋, I'm Javed Baig</h1>
 <h3 align="center">ML/AI Developer at DSC PGDAV.</h3>
 
