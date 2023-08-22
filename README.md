@@ -1,14 +1,14 @@
 <img src = "https://media3.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width=22%>
 <h1>Hi 👋, I'm Javed Baig</h1>
-<h3>ML/AI Developer at DSC PGDAV.</h3>
+<h3>MSc Advanced Computer Science at University of Strathclyde</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Web Development**
+- 🌱 I’m currently learning **Machine Learning, Java Development**
 
 - 💬 Ask me about **Java ,ML**
 
 - 📫 How to reach me **baigjaved38@gmail.com**
 
-- ⚡ Fun fact **I am not funny ,lol XD :D**
+- ⚡ Fun fact **I am not funny, lol XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
